@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffefcb,4600:b9e4ff,80:b9d8ff,100:daccff&height=200&section=header&text=Na%Yeongkyeong&fontSize=50&&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffefcb,4600:b9e4ff,80:b9d8ff,100:daccff&height=200&section=header&text=Na%Yeongkyeong&fontColor=292C35&fontSize=50&&fontAlignY=40)
 
 <div>
 <h3> ⭐ I'm studying...</h3>
