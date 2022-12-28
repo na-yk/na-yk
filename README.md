@@ -1,6 +1,7 @@
+<div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffefcb,4600:b9e4ff,80:b9d8ff,100:daccff&height=200&section=header&text=Hello, I'm Yeongkyeong&fontSize=50&fontAlign=35&fontAlignY=40" />
 
-### ⭐ I'm studying...
+<h3> ⭐ I'm studying...</h3>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=grey"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -25,3 +26,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffefcb,4600:b9e4ff,80:b9d8ff,100:daccff&height=150&section=footer" />
 
+</div>
