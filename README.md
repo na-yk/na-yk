@@ -1,6 +1,6 @@
-<div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffefcb,4600:b9e4ff,80:b9d8ff,100:daccff&height=200&section=header&text=Na Yeongkyeong&fontSize=50&&fontAlignY=40" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffefcb,4600:b9e4ff,80:b9d8ff,100:daccff&height=200&section=header&text=Na%Yeongkyeong&fontSize=50&&fontAlignY=40")
 
+<div>
 <h3> ⭐ I'm studying...</h3>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=grey"/>
